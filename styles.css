@@ -7,10 +7,6 @@ body { background-color : black;
 	margin: auto;
 }
 
-* {
-	font-family : Tahoma;
-}
-
 
 #banniere {
 	width: 1240px;
@@ -42,6 +38,7 @@ h4 {
 
 
 #banniere p {
+	font-family : Tahoma;
 	font-size: 26px;
 	color: white;
 	float: right;
@@ -176,6 +173,7 @@ h4 {
 }
 
 .barre p {
+	font-family : Tahoma;
 	color : white;
 	font-size : 12px;
 	margin-left : 8px;
